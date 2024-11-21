@@ -1,4 +1,4 @@
-# Simulación con OpenAI
+# Resumidor con OpenAI
 
 Este proyecto utiliza la API de OpenAI y Pinecone para ofrecer funcionalidades avanzadas de inteligencia artificial. Sigue los pasos a continuación para configurar y ejecutar correctamente la aplicación.
 
